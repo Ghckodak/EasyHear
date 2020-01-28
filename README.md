@@ -1,1 +1,9 @@
-# ghckodak
+<h1 align="center"><a href="https://github.com/Ghckodak/SpeechMaster" target="_blank">SpeechMaster</a></h1>
+
+> A small useuful software to translate mic input to subtiles.
+
+<p align="center">
+<a href="1"><img alt="develop" src="https://img.shields.io/badge/Developed-In progress-red.svg?style=flat-square"/></a>
+<a href="2"><img alt="version" src="https://img.shields.io/badge/Version-1.0.0-blue.svg?style=flat-square"/></a>
+
+</p>
