@@ -3,7 +3,7 @@
 > A small useuful software to translate mic input to subtiles.
 
 <p align="center">
-<a href="#"><img alt="develop" src="https://img.shields.io/badge/Developed-In progress-red.svg?style=flat-square"/></a>
+<img alt="develop" src="https://img.shields.io/badge/Developed-In progress-red.svg?style=flat-square"/></a>
 <a href="#"><img alt="version" src="https://img.shields.io/badge/Version-1.0.0-blue.svg?style=flat-square"/></a>
 
 </p>
