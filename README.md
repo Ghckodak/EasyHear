@@ -7,3 +7,7 @@
 <a href="#"><img alt="version" src="https://img.shields.io/badge/Version-1.0.0-blue.svg?style=flat-square"/></a>
 
 </p>
+
+## Update
++ Jan 27, 2020
+>Upload some code, half-functional
