@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://github.com/Ghckodak/SpeechMaster" target="_blank">SpeechMaster</a></h1>
+<h1 align="center"><a href="https://github.com/Ghckodak/SpeechMaster" target="_blank">EasyHear</a></h1>
 
 > A small useuful software to translate mic input to subtiles.
 
